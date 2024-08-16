@@ -1,0 +1,10 @@
+{
+    "_index": "Object",
+    "column-order": [
+        "x",
+        "y",
+        "z"
+    ],
+    "encoding-type": "dataframe",
+    "encoding-version": "0.2.0"
+}
